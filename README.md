@@ -81,7 +81,7 @@ Po dodaniu wyszukanych tablic możemy skorzystać z wyszukiwania z grupy ulubion
 Edycja listy poprzez wpisanie numeru i zatwierdzenie. 
 Samo zatwierdzenie `enter` da nam możliwość wpisania numeru do wyświetlenia.
 
-
+---
 *Print screen gif*
 ![alt text here](files/ztm_gif.gif)
 

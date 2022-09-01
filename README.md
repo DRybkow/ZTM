@@ -23,7 +23,7 @@ pip install
 *uruchomienie*:
 `ztm_main.py`
 
-![alt text here](files/1.PNG)
+![alt text](files/1.PNG)
 
 * w przypadku pierwszego uruchomienia należy wpisać `www` w przeciągu 10 sekund aby pobrać bazę przystanków
 * wciśnięcie `enter` spowoduje przejście do opcji wyszukiwania
